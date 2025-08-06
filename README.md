@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kaiwen Hu</h1>
 <h3 align="center">A third-year computer science student from Northwestern University, passionate about exploring the realms of coding, machine learning, and building robust applications</h3>
 
+<h3 align="left">Visit my portfolio: https://verdeer.dpdns.org/</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6bb6md6issc&label=Profile%20views&color=0e75b6&style=flat" alt="6bb6md6issc" /> </p>
 
 <h3 align="left">Connect with me:</h3>
